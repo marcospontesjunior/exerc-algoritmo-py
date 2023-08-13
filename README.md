@@ -9,11 +9,15 @@ Repositório de resolução da lista de exercícios do <a href="https://www.curs
 
 ### Proposta:
 
-Solucionar questões e desafios propostos na lista utilizando a liguagem de programação Python.
+Solucionar questões e desafios propostos na lista.
 
 ### Objetivo:
 
 Aperfeiçoar o pensamento lógico e praticar a linguagem.
+
+### Linguagem Utilizada:
+###
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black)
 
 ---
 ### Contato:
