@@ -5,7 +5,7 @@
 
 ### Sobre:
 
-Repositório de resolução da lista de exercícios do <a href="https://www.cursoemvideo.com/curso/curso-de-algoritmo/">**Curso de Algoritmo**</a> do <a href="https://www.instagram.com/gustavoguanabara">**Prof. Gustavo Guanabara**</a> 
+Repositório de resolução da lista de exercícios do <a href="https://www.cursoemvideo.com/curso/curso-de-algoritmo/">**Curso de Algoritmo**</a> do <a href="https://github.com/professorguanabara">**Prof. Gustavo Guanabara**</a> 
 
 ### Proposta:
 
