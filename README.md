@@ -15,6 +15,10 @@ Solucionar questões e desafios propostos na lista.
 
 Aperfeiçoar o pensamento lógico e praticar a linguagem.
 
+### Estrutura do Repositório:
+- <strong>exercicios:</strong> Encontrará os arquivos das resoluções dos exercícios proposto na lista separados por módulos.  
+- <strong>lista-exercicio:</strong> Aqui você encontrará o pdf da lista de exercício.
+
 ### Linguagem Utilizada:
 ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black)
