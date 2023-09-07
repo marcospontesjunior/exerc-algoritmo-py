@@ -18,6 +18,7 @@ Aperfeiçoar o pensamento lógico e praticar a linguagem.
 ### Estrutura do Repositório:
 - <strong>exercicios:</strong> Encontrará os arquivos das resoluções dos exercícios proposto na lista separados por módulos.  
 - <strong>lista-exercicio:</strong> Aqui você encontrará o pdf da lista de exercício.
+- <strong>readme_translated:</strong> This repository contains the PDF with the report translated into English.
 
 ### Linguagem Utilizada:
 ###
